@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+}
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: calc(20vw + 4px);
+  height: calc(40vw + 4px);
+  border: 2px solid black;
+}

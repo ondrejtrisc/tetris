@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
+.square {
+  width: 2vw;
+  height: 2vw;
+  border: 1px solid lightgray;
+}
